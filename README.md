@@ -1,7 +1,6 @@
 <h1 align="center">I'm Nitish Pal 👋</h1>
-<div  align="center">
-<img  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vh1d574dq3pxkoaly7n7aa5192z3pykzu7k6hrvd&rid=giphy.gif&ct=g" width="300" style="border-radius:10px;">
-
+<div  align="center" style="border-radius:10px;">
+<img  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vh1d574dq3pxkoaly7n7aa5192z3pykzu7k6hrvd&rid=giphy.gif&ct=g" width="300">
 </div>
 <h3 align="center"> A passionate frontend developer </h3>
 
