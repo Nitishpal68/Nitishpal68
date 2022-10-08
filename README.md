@@ -1,4 +1,5 @@
 <h1 align="center">I'm Nitish Pal 👋</h1>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vh1d574dq3pxkoaly7n7aa5192z3pykzu7k6hrvd&rid=giphy.gif&ct=g" width="200">
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishpal68" alt="nitishpal68" /></a> </p>
