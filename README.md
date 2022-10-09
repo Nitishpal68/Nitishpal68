@@ -1,5 +1,5 @@
 <h1 align="center">I'm Nitish Pal <img src="https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="60"></h1>
-<div  align="center" style="border:3px solid black;">
+<div  align="center">
 <img  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vh1d574dq3pxkoaly7n7aa5192z3pykzu7k6hrvd&rid=giphy.gif&ct=g" width="300">
 </div>
 <h3 align="center"> A passionate frontend developer </h3>
