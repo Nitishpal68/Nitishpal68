@@ -1,4 +1,4 @@
-<h1 align="center">I'm Nitish Pal <img src="https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40"></h1>
+<h1 align="center">I'm Nitish Pal <img src="https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40" style="background:none;"></h1>
 <div  align="center">
 <img  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vh1d574dq3pxkoaly7n7aa5192z3pykzu7k6hrvd&rid=giphy.gif&ct=g" width="400">
 </div>
